@@ -1,4 +1,4 @@
-# 🤖 GrootChat - We guarantee for our privacy 
+# 🤖 GrootChat - We guarantee for your privacy 
 
 **Your All-Time AI Assistant** — A modern, intelligent chat application that brings seamless conversations powered by AI.  
 Built with ❤️ using **React.js**, **Node.js**, and **MongoDB**, GrootChat offers a dynamic, real-time experience chat with high Security features.
