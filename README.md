@@ -28,7 +28,8 @@ Built with ❤️ using **React.js**, **Node.js**, and **MongoDB**, GrootChat of
 -  **Code Rendering Support** — Messages containing code are syntax-highlighted  
 -  **Timestamps** — Human-readable message times (e.g., “2 minutes ago”)  
 -  **Dark Mode** — Modern and eye-friendly interface  
--  **Responsive UI** — Works seamlessly across all devices  
+-  **Responsive UI** — Works seamlessly across all devices
+-  **Data Masking** — Masks Sensitive data 
 
 
 ---
